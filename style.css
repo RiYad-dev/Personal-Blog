@@ -57,38 +57,49 @@ input {
 .movie_text span {
     color: #ff7700;
 }
-.environment_li{
+
+.environment_li {
     margin-top: 13px;
 }
-.environment_li h4{
+
+.environment_li h4 {
     border-bottom: 1px solid white;
     padding: 8px;
 }
-.environment_li img{
+
+.environment_li img {
     border-radius: 25px;
 }
-.environment_li p{
+
+.environment_li p {
     margin-top: 10px;
     font-size: 20px;
 }
-.header_entrepreneur{
+
+.header_entrepreneur {
     line-height: 2;
 }
-.book{
+
+.book {
     cursor: pointer;
 }
-.book hr{
+
+.book hr {
     margin-bottom: 10px;
 }
-.modal-content{
+
+.modal-content {
     margin-top: 100px;
 }
-.image_modal{
+
+.image_modal {
     display: inline-block;
 }
-.p_modal{
+
+.p_modal {
     margin-top: 10px;
 }
-.modal-body{
+
+.modal-body {
     text-align: center;
 }
